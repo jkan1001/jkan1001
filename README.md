@@ -1,8 +1,4 @@
-Hello, I’m @jkan1001! I'm most interested in programming simulations and processing data using mathematical models in languages such as Python, but really
-I'm interested in a lot of things, including games, web and app development, networking and cybersecurity. I can't say I'm particularly proficient in any
-of these last 4 :p. I'm currently learning Matlab and refining my skills in Python, and I've been experimenting with the geopandas package in Python for GIS, 
-as well as matplotlib and mayavi in Python for plotting data. I'm mostly self-taught so I'm willing to gain some baseline experience on smaller, simpler projects
-otherwise independent of what they may entail. 
+Hello, I'm @jkan1001! My main programming interests are in modeling/simulation applications, automation applications and prototyping/embedded systems. I've also tried game development in Unity with C#, web development with HTML/CSS, and app development. 
 Email: jaakko.kankainen@gmail.com
 
 <!---
